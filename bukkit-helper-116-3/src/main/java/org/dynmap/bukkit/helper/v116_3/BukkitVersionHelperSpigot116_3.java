@@ -27,15 +27,15 @@ import org.dynmap.renderer.DynmapBlockState;
 import org.dynmap.utils.MapChunkCache;
 import org.dynmap.utils.Polygon;
 
-import net.minecraft.server.v1_16_R2.BiomeBase;
-import net.minecraft.server.v1_16_R2.BiomeFog;
-import net.minecraft.server.v1_16_R2.Block;
-import net.minecraft.server.v1_16_R2.BlockFluids;
-import net.minecraft.server.v1_16_R2.BlockRotatable;
-import net.minecraft.server.v1_16_R2.IBlockData;
-import net.minecraft.server.v1_16_R2.IRegistry;
-import net.minecraft.server.v1_16_R2.Material;
-import net.minecraft.server.v1_16_R2.MinecraftServer;
+import net.minecraft.server.v1_16_R3.BiomeBase;
+import net.minecraft.server.v1_16_R3.BiomeFog;
+import net.minecraft.server.v1_16_R3.Block;
+import net.minecraft.server.v1_16_R3.BlockFluids;
+import net.minecraft.server.v1_16_R3.BlockRotatable;
+import net.minecraft.server.v1_16_R3.IBlockData;
+import net.minecraft.server.v1_16_R3.IRegistry;
+import net.minecraft.server.v1_16_R3.Material;
+import net.minecraft.server.v1_16_R3.MinecraftServer;
 
 /**
  * Helper for isolation of bukkit version specific issues
